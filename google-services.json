@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80181912835",
+    "project_id": "a-tra-2022",
+    "storage_bucket": "a-tra-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80181912835:android:58b42965db174fa5e67536",
+        "android_client_info": {
+          "package_name": "com.fleekz.atra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80181912835-79pqqn5rmpb5ufdg2gr90si1ls0nc595.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWNE3KOcC3G9965mdODROTqMr7O-SR2ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80181912835-79pqqn5rmpb5ufdg2gr90si1ls0nc595.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
